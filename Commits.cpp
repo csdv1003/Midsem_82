@@ -10,7 +10,7 @@ main() {
    cout << "Line 1 - Value of a++ is :" << c << endl ; // value will not be increased.
  
   
-   cout << "Line 2 - Value of a is :" << a << endl ;
+   cout << "Line 2 - Value of a is :" << a << endl ; // value of a is increased 
  
 
    c = ++a;  
