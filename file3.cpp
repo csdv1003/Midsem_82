@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+int main() // main
 {
    
    cout<<"Hello devops"; // prints hello devops
